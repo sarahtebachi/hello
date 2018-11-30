@@ -1,4 +1,4 @@
 int main () {
-  puts("Hello, world!");
+  puts("Hello, ALL world!");
   return 0;
 }
